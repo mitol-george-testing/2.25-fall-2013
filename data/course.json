@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a4033b5f-8392-6efd-db1c-537675f67e25"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Fluid Mechanics",
+  "course_description": "This course is a survey of principal concepts and methods of fluid dynamics. Topics include mass conservation, momentum, and energy equations for continua; Navier-Stokes equation for viscous flows; similarity and dimensional analysis; lubrication theory; boundary layers and separation; circulation and vorticity theorems; potential flow; introduction to turbulence; lift and drag; surface tension and surface tension driven flows.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.25",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "title": "Course Metadata"
+}
